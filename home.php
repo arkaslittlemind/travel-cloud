@@ -134,7 +134,7 @@
 
    <div class="content">
       <h3>about us</h3>
-      <p>We are a motivated team of people who will assist you in travelling to your dream destinations hassle free. Just choose a destination and let us do the planning!</p>
+      <p>We are a motivated team of people who will assist you in traveling to your dream destinations hassle free. Just choose a destination and let us do the planning!</p>
       <a href="about.php" class="btn">read more</a>
    </div>
 
@@ -156,7 +156,7 @@
          </div>
          <div class="content">
             <h3>India</h3>
-            <p>See the exhilerating beauty of the Indian mainlands. Diverse culture and colors of this country will leave you mesmerised</p>
+            <p>See the exhilarating beauty of the Indian mainlands. Diverse culture and colors of this country will leave you mesmerized</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
